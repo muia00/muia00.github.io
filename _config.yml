@@ -1,23 +1,13 @@
-title:            Tw93
-description:      "Hi，我是 Tw93，是一个前端工程师，会一点 Swift / Rust / Python，喜欢折腾各种新技术。"
+title:            木芽-muia
+description:      "Hi，这里是muia93的博客"
 
-github: tw93
-zhihu: tw93
-twitter: HiTw93
-v2ex: tw93
 
-url: https://tw93.fun
+
 menu:
   - title: 'Categories'
     url: '/categories.html'
   - title: 'About'
     url: '/about'
-  - title: 'Weekly'
-    url: 'https://weekly.tw93.fun/'
-  - title: 'Github'
-    url: 'https://github.com/tw93'
-  - title: 'RSS'
-    url: '/feed.xml'
 
 timezone:    Africa/El_Aaiun
 locale:      zh_CN
