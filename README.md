@@ -1,3 +1,3 @@
-- This is Muia's life and technology blog.
-- Concerned about new technology and new thinking.
+- This is Muia's personal blog.
+- Concerned about Life and Science, Technology.
 - forked from tw93/tw93.github.io
